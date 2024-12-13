@@ -5,5 +5,10 @@ def addFunction(x,y):
 def subFunction(x, y):
     return x - y
 
+
+
 def divFunction(x, y):
     return x / y
+
+def program(x, y):
+    return x ** y
